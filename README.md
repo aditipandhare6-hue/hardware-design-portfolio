@@ -22,4 +22,4 @@ A collection of digital design and RTL projects developed using Verilog, SystemV
  FSM Design,
  Synthesis,
  SystemVerilog,
- VHDL,
+ VHDL.
