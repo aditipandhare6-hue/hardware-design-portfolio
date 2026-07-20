@@ -16,10 +16,10 @@ A collection of digital design and RTL projects developed using Verilog, SystemV
 
 3) Current Progress
 
- Verilog Basics
- Behavioral Modeling
- Sequential Logic
- FSM Design
- Synthesis
- SystemVerilog
- VHDL
+ Verilog Basics ,
+ Behavioral Modeling,
+ Sequential Logic,
+ FSM Design,
+ Synthesis,
+ SystemVerilog,
+ VHDL,
