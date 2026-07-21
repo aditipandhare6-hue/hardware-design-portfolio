@@ -1,4 +1,6 @@
 This folder contains the structural Verilog implementation of a Half Adder and full adder  and its verification testbench.
+
+
 for half adder 
 A) Design Specifications
 Inputs a,b (1-bit inputs)
