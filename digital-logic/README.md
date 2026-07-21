@@ -14,12 +14,12 @@ B) File Structure
 
 C) Truth Table Verification :- The design implements the standard binary addition rule
 
-|Input A|Input B| Sum  | Carry |
-
-|   0   |   0   |   0   |   0   |
-|   0   |   1   |   1   |   0   |
-|   1   |   0   |   1   |   0   |
-|   1   |   1   |   0   |   1   |
+| A | B | Sum | Carry |
+|---|---|-----|-------|
+| 0 | 0 | 0   | 0     |
+| 0 | 1 | 1   | 0     |
+| 1 | 0 | 1   | 0     |
+| 1 | 1 | 0   | 1     |
 
 D) simulation result 
 Below is the functional waveform generated via EDA Playground verifying that the outputs perfectly match the truth table:
@@ -37,15 +37,16 @@ B) File Structure
 2) full_adder_tb.v :- Testbench file simulating all input combinations (testbench)
 3) full_adder_waveform.jpeg :- Verified simulation output screenshot.
 C) Truth Table Verification :- The design implements the standard binary addition rule
-| Input A | Input B | Cin | Sum | Cout |
-|    0    |    0    |  0  |  0  |  0   |
-|    0    |    0    |  1  |  1  |  0   |
-|    0    |    1    |  0  |  1  |  0   |
-|    0    |    1    |  1  |  0  |  1   |
-|    1    |    0    |  0  |  1  |  0   |
-|    1    |    0    |  1  |  0  |  1   |
-|    1    |    1    |  0  |  0  |  1   |
-|    1    |    1    |  1  |  1  |  1   |
+| A | B | Cin | Sum | Cout |
+|---|---|-----|-----|------|
+| 0 | 0 | 0   | 0   | 0    |
+| 0 | 0 | 1   | 1   | 0    |
+| 0 | 1 | 0   | 1   | 0    |
+| 0 | 1 | 1   | 0   | 1    |
+| 1 | 0 | 0   | 1   | 0    |
+| 1 | 0 | 1   | 0   | 1    |
+| 1 | 1 | 0   | 0   | 1    |
+| 1 | 1 | 1   | 1   | 1    |
 D) Simulation Result
 Below is the functional waveform generated via EDA Playground verifying that the outputs perfectly match the truth table:
 
