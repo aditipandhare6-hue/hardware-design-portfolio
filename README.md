@@ -12,7 +12,7 @@ A collection of digital design and RTL projects built using Verilog.
 
 
  3. Current Progress
-* Day 1 — Half Adder (structural) + testbench + waveform ✓
-* Day 2 — Full Adder (structural) + testbench + waveform ✓
-* Day 3 — 2:1 & 4:1 Mux (structural + dataflow) + testbench ✓
+* Day 1 — Half Adder (structural) + testbench + waveform 
+* Day 2 — Full Adder (structural) + testbench + waveform 
+* Day 3 — 2:1 & 4:1 Mux (structural + dataflow) + testbench 
 
