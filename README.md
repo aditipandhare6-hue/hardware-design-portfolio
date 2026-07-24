@@ -1,25 +1,18 @@
-A collection of digital design and RTL projects developed using Verilog, SystemVerilog, and VHDL.
-1) Topics
-- Combinational Logic
-- Sequential Logic
-- FSM Design
-- Synchronizers
-- Logic Synthesis
-- Verification Testbenches
+Digital Design & RTL Projects
 
-2) Tools
+A collection of digital design and RTL projects built using Verilog.
 
-- EDA Playground
-- Icarus Verilog
-- GTKWave
-- GitHub
+ 1. Topics Covered So Far
+ Combinational Logic (Half Adder, Full Adder, Multiplexers)
 
-3) Current Progress
+ 2. Tools
+ EDA Playground
+ Icarus Verilog
+ GTKWave
 
- Verilog Basics ,
- Behavioral Modeling,
- Sequential Logic,
- FSM Design,
- Synthesis,
- SystemVerilog,
- VHDL.
+
+ 3. Current Progress
+* Day 1 — Half Adder (structural) + testbench + waveform ✓
+* Day 2 — Full Adder (structural) + testbench + waveform ✓
+* Day 3 — 2:1 & 4:1 Mux (structural + dataflow) + testbench ✓
+
